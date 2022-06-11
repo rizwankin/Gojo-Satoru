@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+923180327106']
-global.premium = ['923180327106']
-global.ownernomer = '923180327106'
-global.ownername = '🐦RIZWAN ALI'
-global.botname = ''🐦RIZWAN ALI'
+global.owner = ['++923180327106']
+global.premium = ['+923180327106']
+global.ownernomer = ['+923180327106']
+global.ownername = '🐦+RIZWAN ALI'
+global.botname = 'RIZWAN ALI'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://https://youtu.be/fjiiNTcIx-w'
+global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = '🐦RIZWAN ALI'
-global.author = ''🐦RIZWAN ALI'
+global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
