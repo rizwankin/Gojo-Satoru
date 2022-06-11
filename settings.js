@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+923180327106']
-global.premium = ['+923180327106']
-global.ownernomer = '+923180327106'
+global.owner = ['Wa.me/+923007393724']
+global.premium = ['Wa.me/+923007393724']
+global.ownernomer = 'Wa.me/+923007393724'
 global.ownername = '🐦RIZWAN ALI'
-global.botname = 'Rizwan Ali'
+global.botname = '☞✮⃝🅬⸽̳⭕ғᷩғᷪɪᷪᴄᷩɪᷲᴀʟ👑✮⃝☜'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Rizwan Ali'
-global.author = '🐦RIZWAN ALI'
+global.packname = '☞✮⃝🅬⸽̳⭕ғᷩғᷪɪᷪᴄᷩɪᷲᴀʟ👑✮⃝☜'
+global.author = '🐦☞✮⃝🅬⸽̳⭕ғᷩғᷪɪᷪᴄᷩɪᷲᴀʟ👑✮⃝☜'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
